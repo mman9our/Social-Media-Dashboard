@@ -10,6 +10,9 @@ npm install
 ```
 npm run start
 ```
+![13](https://user-images.githubusercontent.com/72463762/156891060-67c10e36-b9af-40d5-8a8d-05f568b15e14.PNG)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
