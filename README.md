@@ -1,3 +1,15 @@
+# Social Media Dashboard Challange 
+
+## Install Packages
+
+### Inside Project Folder
+```
+npm install
+```
+### Run the project
+```
+npm run start
+```
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
